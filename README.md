@@ -88,4 +88,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any queries or support, please contact us at your-mistzord@gmail.com.
+For any queries or support, please contact us at your-dixitshivansh22@gmail.com.
